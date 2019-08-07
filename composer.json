@@ -11,12 +11,16 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "phpmailer/phpmailer": "^6.0"
+        "phpmailer/phpmailer": "^6.0",
+        "phroute/phroute": "^2.1"
     },
     "autoload": {
         "psr-4": {
             "App\\": "app/"
         },
-        "files": []
+        "classmap": [],
+        "files": [
+            "app/bootstrap/helpers.php"
+        ]
     }
 }
