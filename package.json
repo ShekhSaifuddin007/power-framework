@@ -1,0 +1,25 @@
+{
+  "name": "powerframe",
+  "version": "1.0.0",
+  "description": "Ecommerce project developed using Php",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShekhSaifuddin007/power-framework.git"
+  },
+  "author": "Shekh Saifuddin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShekhSaifuddin007/power-framework/issues"
+  },
+  "homepage": "https://github.com/ShekhSaifuddin007/power-framework#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "lodash": "^4.17.15",
+    "popper.js": "^1.15.0"
+  }
+}
