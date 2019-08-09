@@ -7,7 +7,7 @@ if (! function_exists('view'))
         if (empty($view)){
             return 'View Not Found';
         }
-        extract($data, EXTR_SKIP);
+        extract($data);
         ob_start();
         require_once __DIR__. '/../../resources/views/'.$view.'.php';
     }

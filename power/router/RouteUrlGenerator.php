@@ -10,7 +10,7 @@ use Phroute\Phroute\RouteParser;
 
 class RouteUrlGenerator
 {
-    protected function router()
+    protected static function router()
     {
         $router = new RouteCollector(new RouteParser());
 

@@ -4,7 +4,7 @@ namespace Power\router;
 
 class Router extends RouteUrlGenerator
 {
-    public function routes()
+    public static function routes()
     {
        return RouteUrlGenerator::router();
     }
