@@ -22,5 +22,10 @@
         "files": [
             "app/bootstrap/helpers.php"
         ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Power\\": "power/"
+        }
     }
 }
