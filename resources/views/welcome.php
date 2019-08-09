@@ -73,7 +73,8 @@
 
     <div class="content">
         <div class="title m-b-md">
-            PowerFrame
+<!--            PowerFrame <br>-->
+            <?php echo $name; ?>
         </div>
 
         <div class="links">
