@@ -14,7 +14,15 @@ if (! function_exists('view'))
 }
 
 if (! function_exists('message')) {
-    function message($key, $message = null) {
+    function message($key, string $message = null) {
             $_SESSION[$key] = $message;
+    }
+}
+
+if (! function_exists('dd')) {
+    function dd($var) {
+        echo '<pre>';
+            var_dump($var);
+        die();
     }
 }

@@ -6,4 +6,6 @@ require __DIR__.'/../vendor/autoload.php';
 
 session_start();
 
-Router::routes();
+define('BASE_URL', 'http://localhost/powerfram/public');
+
+Router::router();
