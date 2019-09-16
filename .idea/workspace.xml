@@ -2,89 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d7a045-45ad-4f44-a806-454e8e44c70b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/front/Source/Flaticon.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/Source/OwlCarousel2-2.3.4_2.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/Source/SlickNav-master.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/Source/bootstrap-4.2.1-dist.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/Source/font-awesome-4.7.0.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/Source/jquery-ui-1.12.1.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/Source/jquery.nicescroll-master.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/Source/sass/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/Source/zoom-master.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/css/flaticon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/css/jquery-ui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/css/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/css/slicknav.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/icon-fonts/Flaticon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/icon-fonts/Flaticon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/icon-fonts/Flaticon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/icon-fonts/Flaticon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/icon-fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/icon-fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/icon-fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/icon-fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/arrow-down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/arrow-up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/banner-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/bg-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/blog-thumbs/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/blog-thumbs/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/cards.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/cart/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/cart/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/cart/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/icons/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/icons/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/icons/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/logo-light.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/mastercart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/paypal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/product/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/product/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/product/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/product/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/product/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/product/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/product/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/product/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/product/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/product/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/product/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/product/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/single-product/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/single-product/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/single-product/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/single-product/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/single-product/thumb-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/single-product/thumb-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/single-product/thumb-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/img/single-product/thumb-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/js/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/js/jquery.nicescroll.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/js/jquery.slicknav.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/js/jquery.zoom.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/js/map.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/front/js/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/front/home/home.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/front/includes/script.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/front/includes/stylesheet.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Frontend/FrontController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Frontend/FrontController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/bootstrap/helpers.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/bootstrap/helpers.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/power/router/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/power/router/Router.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/message-bag.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/message-bag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/front/home/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/front/home/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/router.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/router.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -108,12 +29,6 @@
       <path value="$PROJECT_DIR$/vendor/phroute/phroute" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="100" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="820" />
-  </component>
   <component name="ProjectId" id="1Pbm34Vx7BKeSGuQBNb97HvG5mR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
@@ -124,7 +39,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -170,6 +85,8 @@
       <workItem from="1566149612508" duration="366000" />
       <workItem from="1566150977354" duration="871000" />
       <workItem from="1566151923735" duration="27000" />
+      <workItem from="1566238899330" duration="2668000" />
+      <workItem from="1566318750441" duration="36000" />
     </task>
     <servers />
   </component>

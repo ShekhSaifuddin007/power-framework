@@ -51,7 +51,7 @@
                                 <i class="flaticon-bag"></i>
                                 <span>0</span>
                             </div>
-                            <a href="#">Shopping Cart</a>
+                            <a href="/powerfram/public/cart">Shopping Cart</a>
                         </div>
                     </div>
                 </div>
