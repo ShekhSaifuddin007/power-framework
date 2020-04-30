@@ -18,7 +18,7 @@
   "homepage": "https://github.com/ShekhSaifuddin007/power-framework#readme",
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lodash": "^4.17.15",
     "popper.js": "^1.15.0"
   }
